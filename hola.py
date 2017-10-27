@@ -2,6 +2,6 @@
 print("Hola mundo")
 n=5
 while n>0:
- print("HOli xd")
+ print("Holi! xd")
  n=n-1
 
